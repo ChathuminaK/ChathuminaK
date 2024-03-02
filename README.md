@@ -27,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathuminak&show_icons=true&locale=en&layout=compact" alt="chathuminak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathuminak&show_icons=true&locale=en" alt="chathuminak" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chathuminak" alt="chathuminak" /></a> </p>
