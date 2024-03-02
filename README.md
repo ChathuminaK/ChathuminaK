@@ -1,3 +1,5 @@
+![1709367799556](https://github.com/ChathuminaK/ChathuminaK/assets/161899336/5acf66a0-987d-448a-a003-8894cea961eb)
+
 <h1 align="center">Hi 👋, I'm Chathumina Kaushal</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
