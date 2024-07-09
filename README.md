@@ -32,4 +32,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chathuminak" alt="chathuminak" /></a> </p>
 
-https://github-profile-trophy.vercel.app/?username=chathuminak=tokyonight
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=chathuminak=tokyonight
+"><img src="https://github-profile-trophy.vercel.app/?username=chathuminak" alt="chathuminak" /></a> </p>
