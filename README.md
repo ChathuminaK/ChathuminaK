@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chathumina Kaushal</h1>
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
 
-[![](https://visitcount.itsvg.in/api?id=ChathuminaK&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathuminak&label=Profile%20views&color=0e75b6&style=flat" alt="chathuminak" /> </p>
 
 
@@ -36,5 +34,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chathuminak" alt="chathuminak" /></a> </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuminaK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="chathuminak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChathuminaK&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="chathuminak" /></p>
+
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ChathuminaK&theme=dark&no-frame=false&no-bg=true&margin-w=4"><img src="https://github-profile-trophy.vercel.app/?username=ChathuminaK&theme=dark&no-frame=false&no-bg=true&margin-w=4" /></a> </p>
 
 
