@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Chathumina Kaushal</h1>
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
 
+[![](https://visitcount.itsvg.in/api?id=ChathuminaK&icon=3&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathuminak&label=Profile%20views&color=0e75b6&style=flat" alt="chathuminak" /> </p>
 
 
