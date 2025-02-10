@@ -1,14 +1,14 @@
 ![1709367799556](https://github.com/ChathuminaK/ChathuminaK/assets/161899336/5acf66a0-987d-448a-a003-8894cea961eb)
 
 <h1 align="center">Hi 👋, I'm Chathumina Kaushal</h1>
-<h3 align="center">A passionate web developer from Sri Lanka</h3>
+<h3 align="center">A passionate Mobile App Developer from Sri Lanka</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathuminak&label=Profile%20views&color=0e75b6&style=flat" alt="chathuminak" /> </p>
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Web, Android, IOS app**
 
