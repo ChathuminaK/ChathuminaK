@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chathumina Kaushal</h1>
 <h3 align="center">A passionate Mobile App Developer from Sri Lanka</h3>
 
+![gGreen+White+Futuristic+Gamming+Channel++YouTube+Intro](https://github.com/user-attachments/assets/69b473c0-1432-4061-a54b-f6224003c9d0)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathuminak&label=Profile%20views&color=0e75b6&style=flat" alt="chathuminak" /> </p>
 
