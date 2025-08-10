@@ -1,7 +1,7 @@
 ![1709367799556](https://github.com/ChathuminaK/ChathuminaK/assets/161899336/5acf66a0-987d-448a-a003-8894cea961eb)
 
 <h1 align="center">Hi 👋, I'm Chathumina Kaushal</h1>
-<h3 align="center">A passionate Mobile App Developer from Sri Lanka</h3>
+<h3 align="center">Junior Software Engineer at Oxiwear, crafting mobile applications for health monitoring solutions.</h3>
 
 ![gGreen+White+Futuristic+Gamming+Channel++YouTube+Intro](https://github.com/user-attachments/assets/69b473c0-1432-4061-a54b-f6224003c9d0)
 
